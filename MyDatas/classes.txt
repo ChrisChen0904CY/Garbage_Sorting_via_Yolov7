@@ -1,0 +1,12 @@
+plastic_bag
+packing_bag
+tissue
+papper
+pericarp
+match
+battery
+bottle
+ticket
+mask
+flower
+metal_stick

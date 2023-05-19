@@ -1,0 +1,5 @@
+# 激活环境
+activate pytorch-cuda
+python train.py --batch 2 --epoch 50 --data data/mydata.yaml --cfg cfg/deploy/yolov7x.yaml --weights weights/best.pt
+# Continue
+python train.py --batch 2 --epoch 50 --data data/mydata.yaml --cfg cfg/deploy/yolov7x.yaml --weights weights/last.pt

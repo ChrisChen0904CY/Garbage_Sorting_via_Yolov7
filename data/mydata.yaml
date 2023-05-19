@@ -1,0 +1,7 @@
+train: ./MyDatas/dataset/train.txt
+val: ./MyDatas/dataset/val.txt
+test: ./MyDatas/dataset/test.txt
+
+nc: 12
+
+names: [ 'plastic_bag', 'packing_bag', 'tissue', 'papper', 'pericarp', 'match', 'battery', 'bottle', 'ticket', 'mask', 'flower', 'metal_stick' ]
